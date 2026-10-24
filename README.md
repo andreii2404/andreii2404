@@ -28,8 +28,6 @@ I enjoy connecting thoughtful design with dependable systems—from a student ma
 - **[NU Freelance](https://github.com/andreii2404/NU_Freelance_Backup)**<br>
   A service marketplace where NU Dasmariñas students can offer skills, discover work, and connect.
 
-- **[POSTECH Evacuate](https://github.com/andreii2404/POSTECH-Evacuate)**<br>
-  An interactive Unity fire-escape simulator with objectives, user decisions, and scene-based progression.
 
 ### My toolkit
 
