@@ -1,47 +1,68 @@
 <p align="center">
-  <img src="assets/header.png" width="100%" alt="Hi, I'm Andrei Quias. Mobile and web developer. Ideas, made useful." />
+  <img src="assets/header.png?v=black-20261029" width="100%" alt="Hi, I'm Andrei Quias. Mobile and web developer. Ideas, made useful." />
 </p>
 
 <p align="center">
-  <a href="https://andreiquias.vercel.app/"><img src="assets/portfolio.svg" height="32" alt="Visit my portfolio" /></a>
-  <a href="https://andreiquias.vercel.app/projects"><img src="assets/projects.svg" height="32" alt="Explore my projects" /></a>
-  <a href="https://andreiquias.vercel.app/andrei-quias-resume.pdf"><img src="assets/resume.svg" height="32" alt="Read my résumé" /></a>
-  <a href="https://andreiquias.vercel.app/contact"><img src="assets/contact.svg" height="32" alt="Get in touch" /></a>
+  <a href="https://andreiquias.vercel.app/"><img src="assets/portfolio.svg?v=black-20261029" height="32" alt="Visit my portfolio" /></a>
+  <a href="https://andreiquias.vercel.app/projects"><img src="assets/projects.svg?v=black-20261029" height="32" alt="Explore my projects" /></a>
+  <a href="https://andreiquias.vercel.app/andrei-quias-resume.pdf"><img src="assets/resume.svg?v=black-20261029" height="32" alt="Read my résumé" /></a>
+  <a href="https://andreiquias.vercel.app/contact"><img src="assets/contact.svg?v=black-20261029" height="32" alt="Get in touch" /></a>
 </p>
 
 ## Hey, I'm Andrei.
 
-I'm an **Information Technology student at National University–Dasmariñas**, majoring in **Mobile and Web Applications**. I build practical apps, responsive websites, and interactive experiences that help people get things done.
+I'm an **Information Technology student at National University–Dasmariñas**, specializing in **Mobile and Web Applications**. I build practical mobile apps, responsive websites, and interactive experiences.
 
-I enjoy connecting thoughtful design with dependable systems—from a student marketplace to fire-safety learning. I'm currently improving my skills in **API integration, databases, and software architecture**.
+My work connects clear interfaces with APIs, databases, and useful workflows—from student services to fire-safety learning. I care about making each experience accessible, reliable, and easy to use.
 
 **Open to internships, entry-level opportunities, and project collaborations.**
 
 ### Selected work
 
 - **[IGNIS SAFE](https://andreiquias.vercel.app/projects/ignis-safe)**<br>
-  A connected fire-safety platform with a public website, mobile learning, simulations, and admin tools. [Android releases](https://github.com/andreii2404/ignis-safe-mobile-releases)
+  Project manager and developer across the web platform, mobile learning app, and Unity fire-safety simulations. [Android releases](https://github.com/andreii2404/ignis-safe-mobile-releases)
 
 - **[Rental by Maddy & Cassy](https://github.com/andreii2404/maddyandcassyrentals)**<br>
-  A full-stack rental website with product browsing, guided reservations, and connected administration.
+  Lead developer for a rental platform connecting product browsing, guided reservations, customer accounts, and administration.
 
 - **[NU Freelance](https://github.com/andreii2404/NU_Freelance_Backup)**<br>
-  A service marketplace where NU Dasmariñas students can offer skills, discover work, and connect.
+  Frontend development for a campus marketplace, including service listings, order management, and transaction-status views.
 
+### Tech stack
 
-### My toolkit
+**Mobile**
 
-**Mobile** · Flutter, Dart, React Native<br>
-**Web** · React, Next.js, JavaScript, HTML, CSS<br>
-**Interactive** · Unity, C#<br>
-**Data & tools** · PostgreSQL, Supabase, Git, GitHub<br>
-**Also working with** · Java
+<p>
+  <img src="assets/tech/flutter.svg" width="78" height="74" alt="Flutter" />
+  <img src="assets/tech/dart.svg" width="78" height="74" alt="Dart" />
+</p>
 
-### A little more about how I work
+**Web**
 
-- Start with what people need, then build a clear, accessible interface.
-- Connect the UI, database, and APIs into something that works together.
-- Test, listen to feedback, and keep improving.
+<p>
+  <img src="assets/tech/react.svg" width="78" height="74" alt="React" />
+  <img src="assets/tech/nextjs.svg" width="78" height="74" alt="Next.js" />
+  <img src="assets/tech/typescript.svg" width="78" height="74" alt="TypeScript" />
+  <img src="assets/tech/javascript.svg" width="78" height="74" alt="JavaScript" />
+  <img src="assets/tech/html5.svg" width="78" height="74" alt="HTML" />
+  <img src="assets/tech/css3.svg" width="78" height="74" alt="CSS" />
+</p>
+
+**Interactive**
+
+<p>
+  <img src="assets/tech/unity.svg" width="78" height="74" alt="Unity" />
+  <img src="assets/tech/csharp.svg" width="78" height="74" alt="C#" />
+</p>
+
+**Data & tools**
+
+<p>
+  <img src="assets/tech/supabase.svg" width="78" height="74" alt="Supabase" />
+  <img src="assets/tech/postgresql.svg" width="78" height="74" alt="PostgreSQL" />
+  <img src="assets/tech/git.svg" width="78" height="74" alt="Git" />
+  <img src="assets/tech/github.svg" width="78" height="74" alt="GitHub" />
+</p>
 
 ---
 
